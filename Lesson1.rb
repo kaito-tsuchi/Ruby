@@ -7,3 +7,7 @@ puts 8/2
 puts 5/2
 puts 5.0/2.0
 puts 2**8
+
+puts 5
+
+puts 3
